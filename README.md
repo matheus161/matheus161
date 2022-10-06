@@ -1,6 +1,4 @@
 ### Hi, I'm Matheus Lima 👋
-
-## About me: ##
 - 💼 I’m currently working on back-end development at SofTeam;
 - 🌱 I’m currently learning Typescritpt and React;
 - 🎓 Graduating in Computer Science at UFS;

@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus Lima 👋
 - 💼 I’m currently working on back-end development at SofTeam;
-- 📚 I’m currently learning Typescritpt and React;
+- 📚 I’m currently learning Dart and Flutter;
 - 🎓 I’m currently graduating in Computer Science at UFS;
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
@@ -13,6 +13,9 @@
 </div>
 
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Matt-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />          
+  <img align="center" alt="Matt-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />                   
   <img align="center" alt="Matt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matt-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matt-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

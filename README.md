@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus Lima 👋
-- 💼 I’m currently working on back-end development at SofTeam;
-- 📚 I’m currently learning Dart and Flutter;
+- 💼 I’m currently working on back-end development at SergipeTec;
+- 📚 I’m currently learning Java and Spring Boot;
 - 🎓 I’m currently graduating in Computer Science at UFS;
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;

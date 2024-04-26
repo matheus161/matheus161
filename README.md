@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus Lima 👋
-- 💼 I’m currently working on full-stack development;
-- 📚 I’m currently learning React and NodeJS;
+- 💼 I’m currently working on Fullstack Development;
+- 📚 I’m currently learning ReactJS and NodeJS;
 - 🎓 I’m graduated in Computer Science at UFS;
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;

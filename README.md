@@ -9,8 +9,8 @@
 ##
 <div>
   <a href="https://github.com/matheus161">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus161&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus161&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheus161&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus161&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -36,5 +36,5 @@
   <a href="mailto:mlptech@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/matheus161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-  ![Snake animation](https://github.com/matheus161/matheus161/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/matheus161/matheus161/output/github-contribution-grid-snake.svg)
 </div>
